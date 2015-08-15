@@ -1,2 +1,2 @@
-This project is going to be a 498 framework developed from scratch, it will be using the lastest 4.0 version of netty as the networking nio and will be using
-grahams OpenRsCache library.
+This project is going to be a 498 framework developed from scratch, it will be using the lastest 4.0 version of netty as the networking nio and will be using the cache
+library from arios 498 created by dkk and emp
